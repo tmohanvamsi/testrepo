@@ -1,1 +1,2 @@
 This is my first file on GIT bash
+This is updated line on the existing file
